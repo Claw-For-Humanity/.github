@@ -1,4 +1,4 @@
-**Welcome to Claw For Humanity's Official Github Repository!**
+> **Welcome to Claw For Humanity's Official Github Repository!**
 
 We are a non-profitable corporation aiming to revolutionize the way we recycle. We are a startup technology corporation with 20+ volunteers and 3 experienced directors.
 
@@ -9,4 +9,4 @@ All the work in progress repositories are private, so make sure to contact us, i
 Visit https://www.clawforhumanity.ca/ for more information.
 
 
-_Together, Revolutionize Recycling_
+**_Together, Revolutionize Recycling_**
